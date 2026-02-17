@@ -37,8 +37,8 @@ Shipping Cost per Kg (On-Time vs Late):
 - This shows that delays do not just affect service performance — they also increase shipping costs.
 
 Delay by Transportation Mode:
-• Sea freight has slightly higher delays than air freight. Air shipments average about 0.92 delay days, while sea shipments average about 0.95 delay days.
-• The difference is small, which suggests that route-specific issues and disruption events have a bigger impact than transportation mode alone.
+- Sea freight has slightly higher delays than air freight. Air shipments average about 0.92 delay days, while sea shipments average about 0.95 delay days.
+- The difference is small, which suggests that route-specific issues and disruption events have a bigger impact than transportation mode alone.
 
 **Key Insights for Stakeholders from Delay Trends and Disruption Risk Dashboard:**
 
