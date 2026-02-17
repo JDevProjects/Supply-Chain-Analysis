@@ -52,12 +52,12 @@ Impact of Disruption Events:
 
 Route-Specific Disruption Patterns:
 - Each route is affected by different types of disruptions:
--  Atlantic and Commodity are mainly affected by port congestion.
--  Intra-Asia and Pacific are affected by both port congestion and severe weather.
--  Suez is affected entirely by geopolitical conflict.
--  This helps explain the earlier performance results. Suez has the lowest on-time rate and the highest late costs because it is exposed to the most severe type of disruption.
+ - Atlantic and Commodity are mainly affected by port congestion.
+ - Intra-Asia and Pacific are affected by both port congestion and severe weather.
+ - Suez is affected entirely by geopolitical conflict.
+ - This helps explain the earlier performance results. Suez has the lowest on-time rate and the highest late costs because it is exposed to the most severe type of disruption.
 
-Feature Engineering:
+**Feature Engineering:**
 - Created new features to enrich analysis:
 -  Shipping_Cost_Per_Kg: Cost per kilogram for each shipment, calculated to assess cost efficiency.
 -  OnTime_Flag: Binary flag indicating whether a shipment was delivered on time (1 = on time, 0 = late).
