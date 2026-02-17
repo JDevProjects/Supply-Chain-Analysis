@@ -61,12 +61,12 @@ Route-Specific Disruption Patterns:
 
 **Feature Engineering:**
 - Created new features to enrich analysis:
- -  Shipping_Cost_Per_Kg: Cost per kilogram for each shipment, calculated to assess cost efficiency.
- -  OnTime_Flag: Binary flag indicating whether a shipment was delivered on time (1 = on time, 0 = late).
- -  Delay_Flag: Binary flag marking delayed shipments (1 = delayed, 0 = on time).
- -  LeadTime_Variance: Difference in days between planned and actual delivery, showing early or late arrivals.
- -  Used pivot tables to aggregate, summarize, and analyze performance, cost, and disruption patterns across routes and transportation modes.
- -  These features directly supported the dashboards and key insights for stakeholders.
+  -  Shipping_Cost_Per_Kg: Cost per kilogram for each shipment, calculated to assess cost efficiency.
+  -  OnTime_Flag: Binary flag indicating whether a shipment was delivered on time (1 = on time, 0 = late).
+  -  Delay_Flag: Binary flag marking delayed shipments (1 = delayed, 0 = on time).
+  -  LeadTime_Variance: Difference in days between planned and actual delivery, showing early or late arrivals.
+  -  Used pivot tables to aggregate, summarize, and analyze performance, cost, and disruption patterns across routes and transportation modes.
+  -  These features directly supported the dashboards and key insights for stakeholders.
 
 **Dataset & Tools:**
 - Dataset: Global Supply Chain and Trade Route from Kaggle
