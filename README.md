@@ -22,6 +22,7 @@ Global Supply Chain and Trade Route data analysis project: used pivot tables in 
 - Route-Specific Disruption Patterns: Bar chart highlighting routes vs disruption types.
 
 **Key Insights for Stakeholders from Delivery Performance & Cost Dashboard:**
+
 On-Time Delivery Performance:
 - Delivery performance is different across the routes. The Commodity route has the best on-time rate at about 91%, making it the most reliable route. Atlantic follows at around 89%, and Pacific is close at about 88%. Intra-Asia performs slightly lower at 86%. Suez has the lowest on-time rate at about 84%.
 - The gap between Commodity and Suez is noticeable. This shows that shipments moving through Suez are more likely to be delayed compared to the other routes.
@@ -40,6 +41,7 @@ Delay by Transportation Mode:
 • The difference is small, which suggests that route-specific issues and disruption events have a bigger impact than transportation mode alone.
 
 **Key Insights for Stakeholders from Delay Trends and Disruption Risk Dashboard:**
+
 Monthly Trend of Delayed Orders (2024–Jan 2026):
 - Looking at the monthly trends, some routes show more ups and downs than others. Intra-Asia and Pacific have the most variation in delay percentages. Commodity remains the most stable over time.
 - Many routes show higher delay levels around the middle of the year, especially between July and September. There are also some increases toward the end of certain years. Suez shows repeated spikes in delays, including another increase at the start of 2026.
@@ -59,12 +61,12 @@ Route-Specific Disruption Patterns:
 
 **Feature Engineering:**
 - Created new features to enrich analysis:
--  Shipping_Cost_Per_Kg: Cost per kilogram for each shipment, calculated to assess cost efficiency.
--  OnTime_Flag: Binary flag indicating whether a shipment was delivered on time (1 = on time, 0 = late).
--  Delay_Flag: Binary flag marking delayed shipments (1 = delayed, 0 = on time).
--  LeadTime_Variance: Difference in days between planned and actual delivery, showing early or late arrivals.
--  Used pivot tables to aggregate, summarize, and analyze performance, cost, and disruption patterns across routes and transportation modes.
--  These features directly supported the dashboards and key insights for stakeholders.
+ -  Shipping_Cost_Per_Kg: Cost per kilogram for each shipment, calculated to assess cost efficiency.
+ -  OnTime_Flag: Binary flag indicating whether a shipment was delivered on time (1 = on time, 0 = late).
+ -  Delay_Flag: Binary flag marking delayed shipments (1 = delayed, 0 = on time).
+ -  LeadTime_Variance: Difference in days between planned and actual delivery, showing early or late arrivals.
+ -  Used pivot tables to aggregate, summarize, and analyze performance, cost, and disruption patterns across routes and transportation modes.
+ -  These features directly supported the dashboards and key insights for stakeholders.
 
 **Dataset & Tools:**
 - Dataset: Global Supply Chain and Trade Route from Kaggle
