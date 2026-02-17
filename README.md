@@ -1,5 +1,5 @@
 # Supply-Chain-and-Trade-Routes-Analysis
-Global Supply Chain and Trade Route data analysis project: used pivot tables in Excel to analyze and visualize supply chain data.
+Global Supply Chain and Trade Route data analysis project: used Excel to analyze and visualize supply chain data.
 
 **Project Purpose / Objective:**
 - Analyzed 10K+ international shipments to identify delays, bottlenecks, and risks from port congestion, severe weather, and geopolitical events, feature-engineered metrics like Delay Flag, Lead Time Variance, and Shipping Cost per Kg, and built an interactive Excel dashboard to visualize performance and support stakeholder decisions. 
