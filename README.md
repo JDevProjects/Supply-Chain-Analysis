@@ -1,4 +1,4 @@
-# Supply-Chain-Trade-Routes-Analysis
+# Supply-Chain-And-Trade-Routes-Analysis
 Global Supply Chain and Trade Route data analysis project: used Excel to analyze and visualize supply chain and trade route data.
 
 **Project Purpose / Objective:**
