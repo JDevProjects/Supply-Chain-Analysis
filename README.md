@@ -23,36 +23,36 @@ Global Supply Chain and Trade Route data analysis project: used Excel to analyze
 
 **Key Insights for Stakeholders from Delivery Performance & Cost Dashboard:**
 
-On-Time Delivery Performance:
+1. On-Time Delivery Performance:
 - Delivery performance is different across the routes. The Commodity route has the best on-time rate at about 91%, making it the most reliable route. Atlantic follows at around 89%, and Pacific is close at about 88%. Intra-Asia performs slightly lower at 86%. Suez has the lowest on-time rate at about 84%.
 - The gap between Commodity and Suez is noticeable. This shows that shipments moving through Suez are more likely to be delayed compared to the other routes.
 
-Lead Time Variance:
+2. Lead Time Variance:
 - Most routes are arriving slightly earlier than planned. Commodity arrives about 1.6 days early on average. Atlantic arrives about 1.4 days early, Pacific about 1.3 days early, and Intra-Asia about 1.2 days early.
 - Suez is the only route that arrives late on average. Instead of arriving early, it shows a small delay. This confirms that Suez is the weakest-performing route in terms of schedule reliability.
 
-Shipping Cost per Kg (On-Time vs Late):
+3. Shipping Cost per Kg (On-Time vs Late):
 - Across every route, late shipments cost more per kilogram than shipments delivered on time.
 - The biggest cost increase happens on the Suez route. Late shipments there cost around 4.3 per kg, which is the highest among all routes. Atlantic and Commodity also show clear cost increases when shipments are late. Pacific and Intra-Asia follow the same pattern, though the increase is slightly smaller.
 - This shows that delays do not just affect service performance — they also increase shipping costs.
 
-Delay by Transportation Mode:
+4. Delay by Transportation Mode:
 - Sea freight has slightly higher delays than air freight. Air shipments average about 0.92 delay days, while sea shipments average about 0.95 delay days.
 - The difference is small, which suggests that route-specific issues and disruption events have a bigger impact than transportation mode alone.
 
 **Key Insights for Stakeholders from Delay Trends and Disruption Risk Dashboard:**
 
-Monthly Trend of Delayed Orders (2024–Jan 2026):
+1. Monthly Trend of Delayed Orders (2024–Jan 2026):
 - Looking at the monthly trends, some routes show more ups and downs than others. Intra-Asia and Pacific have the most variation in delay percentages. Commodity remains the most stable over time.
 - Many routes show higher delay levels around the middle of the year, especially between July and September. There are also some increases toward the end of certain years. Suez shows repeated spikes in delays, including another increase at the start of 2026.
 - This suggests there may be seasonal patterns affecting performance, such as weather or peak shipping periods.
 
-Impact of Disruption Events:
+2. Impact of Disruption Events:
 - Different types of disruptions cause different levels of delay.
 - Geopolitical conflict causes the biggest delays, averaging about 13 days. Severe weather causes around 5 to 6 days of delay. Port congestion causes about 3 days of delay on average.
 - Even though port congestion may happen more often, geopolitical events create much longer delays when they occur.
 
-Route-Specific Disruption Patterns:
+3. Route-Specific Disruption Patterns:
 - Each route is affected by different types of disruptions:
   - Atlantic and Commodity are mainly affected by port congestion.
   - Intra-Asia and Pacific are affected by both port congestion and severe weather.
